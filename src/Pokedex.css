@@ -1,0 +1,13 @@
+.Pokedex {
+    border: 2px solid black;
+    height: 800px;
+    text-align: center;
+}
+
+.Pokedex-player {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 800px;
+    text-align: center;
+}

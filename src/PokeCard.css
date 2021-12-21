@@ -1,0 +1,27 @@
+.PokeCard {
+    background-color: rgb(175, 175, 175);
+    border-radius: 5px;
+    margin: 10px;
+    width: 250px;
+    height: 250px;
+}
+
+.PokeCard-name {
+    color: blue;
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+.PokeCard-img {
+    margin: 0px;
+}
+
+.PokeCard-type {
+    margin-bottom: 0px;
+}
+
+.PokeCard-exp {
+    margin-top: 0px;
+}
